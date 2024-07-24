@@ -2,7 +2,7 @@ import requests
 import base64
 
 # Replace with your actual email
-email = "dhruvbahl01@gmail.com"
+email = ""
 base_url = "https://ciphersprint.pulley.com/"
 
 def get_response(url):
